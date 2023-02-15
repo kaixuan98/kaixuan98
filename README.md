@@ -1,16 +1,45 @@
-### Hi there 👋
+## Hi there 👋
+I am a front end developer from Malaysia :malaysia: based in Toronto, Canada :canada: . I am passionate in everything front end specifically interactive data visualization on the web. 
 
-<!--
-**kaixuan98/kaixuan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔭 I’m currently working on
+---
+- Arke News 
 
-Here are some ideas to get you started:
+Arke News is a startup that aim to provide a holistic perspective on news based on user's news consumption. The perks of working in a startup is each one has multiple roles. Most of my responsibility is create and make the front end looks good but sometimes I take on roles to debug backend code and give feedbacks on the whole application's architecture. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 🌱 I’m currently learning
+---
+- React and React Native
+
+There are so many to learn on React itself. Everytime when I felt that I am an expert on React, there are still problems or bugs that I do not understand.
+
+- D3.js (Data Visualization) 
+
+Aesthetically pleasing interactive data visualization that tell stories that create awareness is something that I am passion in. I am building my fundamental skills on creating simple graphs with D3 before moving on to make it aesthetically pleasing.  
+
+- Web Accesibility
+
+The beauty of things should be enjoyed by all! The same goes with beautiful websites, this year I would like to start learing more about WCAG and try to incorporate in any projects that I am working on. 
+
+
+#### 👯 I’m looking to collaborate on
+---
+- Interactive Data Viz
+
+Anyone who wants to tell a story with data viz but does not have the coding skills!!! Or just want to collaborate in creating something fun!
+
+
+#### ⚡ My Skills: 
+---
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,py)]()
+
+[![Tools](https://skillicons.dev/icons?i=vscode,figma)]()
+
+#### 📫 How to reach me
+---
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/averychin)
+
+
+
