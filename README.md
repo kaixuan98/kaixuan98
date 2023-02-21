@@ -10,9 +10,9 @@ Arke News is a startup that aim to provide a holistic perspective on news based 
 
 #### 🌱 I’m currently learning
 ---
-- React and React Native
+- TypeScript ( with React )
 
-There are so many to learn on React itself. Everytime when I felt that I am an expert on React, there are still problems or bugs that I do not understand.
+Typescript is like a booster on Javascript, it makes JS code easier to read and understand with type enforcing (one of the most popular language in web development!). 
 
 - D3.js (Data Visualization) 
 
