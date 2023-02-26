@@ -12,7 +12,7 @@ Arke News is a startup that aim to provide a holistic perspective on news based 
 ---
 - TypeScript ( with React )
 
-Typescript is like a booster on Javascript, it makes JS code easier to read and understand with type enforcing (one of the most popular language in web development!). 
+Typescript is like a booster on Javascript, it makes JS code easier to read and understand with type enforcing. I am learing typesript to improve my code and make it less prune to erros and bugs. 
 
 - D3.js (Data Visualization) 
 
