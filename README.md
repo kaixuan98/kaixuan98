@@ -1,11 +1,5 @@
 ## Hi there 👋
-I am a front end developer from Malaysia :malaysia: based in Toronto, Canada :canada: . I am passionate in everything front end specifically interactive data visualization on the web. 
-
-#### 🔭 I’m currently working on
----
-- Arke News 
-
-Arke News is a startup that aim to provide a holistic perspective on news based on user's news consumption. The perks of working in a startup is each one has multiple roles. Most of my responsibility is create and make the front end looks good but sometimes I take on roles to debug backend code and give feedbacks on the whole application's architecture. 
+I am a software developer based in Toronto, Canada :canada: . I am passionate in everything front end specifically interactive data visualization on the web. 
 
 
 #### 🌱 I’m currently learning
