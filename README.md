@@ -8,10 +8,6 @@ I am a software developer based in Toronto, Canada :canada: . I am passionate in
 
 Typescript is like a booster on Javascript, it makes JS code easier to read and understand with type enforcing. I am learing typesript to improve my code and make it less prune to erros and bugs. 
 
-- D3.js (Data Visualization) 
-
-Aesthetically pleasing interactive data visualization that tell stories that create awareness is something that I am passion in. I am building my fundamental skills on creating simple graphs with D3 before moving on to make it aesthetically pleasing.  
-
 - Web Accesibility
 
 The beauty of things should be enjoyed by all! The same goes with beautiful websites, this year I would like to start learing more about WCAG and try to incorporate in any projects that I am working on. 
