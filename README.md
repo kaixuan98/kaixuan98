@@ -1,28 +1,17 @@
 ## Hi there 👋
-I am a software developer based in Toronto, Canada :canada: . I am passionate in everything front end specifically interactive data visualization on the web. 
+I am a software developer based in Toronto, Canada :canada: who specialize in full-stack web development. I also have a strong passion for data storytelling—bringing together the creative and technical sides to turn data into something meaningful and fun to explore.
 
 
 #### 🌱 I’m currently learning
 ---
-- TypeScript ( with React )
+- Data Engineering
+- Cloud Computing
 
-Typescript is like a booster on Javascript, it makes JS code easier to read and understand with type enforcing. I am learing typesript to improve my code and make it less prune to erros and bugs. 
-
-- Web Accesibility
-
-The beauty of things should be enjoyed by all! The same goes with beautiful websites, this year I would like to start learing more about WCAG and try to incorporate in any projects that I am working on. 
-
-
-#### 👯 I’m looking to collaborate on
----
-- Interactive Data Viz
-
-Anyone who wants to tell a story with data viz but does not have the coding skills!!! Or just want to collaborate in creating something fun!
 
 
 #### ⚡ My Skills: 
 ---
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,py)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,py&theme=light)]()
 
 [![Tools](https://skillicons.dev/icons?i=vscode,figma)]()
 
