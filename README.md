@@ -1,11 +1,11 @@
 ## Hi there 👋
-I am a software developer based in Toronto, Canada :canada: who specialize in full-stack web development. I also have a strong passion for data storytelling—bringing together the creative and technical sides to turn data into something meaningful and fun to explore.
+I am a software developer based in Toronto, Canada :canada: who specialize in full-stack web development. I also have a strong passion for data storytelling because it brings both creative and technical and turn data into something meaningful and fun to explore.
 
 
 #### 🌱 I’m currently learning
 ---
-- Data Engineering
-- Cloud Computing
+- Data Engineering (mainly ELT pipeline with python for scripting, sql for data cleaning and transformation)
+- Data Visualization (in D3)
 
 
 
